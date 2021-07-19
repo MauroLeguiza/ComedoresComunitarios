@@ -1,0 +1,49 @@
+﻿body {
+    font-family:sans-serif;
+    width: 100%;
+    background:url(Imagenes/FONDO.jpg)no-repeat 0px 0px;
+    background-size:cover;
+    padding-top:200px;
+
+}
+
+.login-form{
+    width:28%;
+    margin: 0 auto;
+    background: #2a2121;
+    background-size:cover;
+    background-position:center;
+    padding:30px 33px 67px;
+    border-top: 6px solid #00ffff;
+    box-shadow: 0px 35px 44px -22px;
+
+}
+
+.letras{
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 55px;
+    margin-bottom: 35px;
+
+}
+
+.letras1 {
+    color: #ffffff;
+    font-size: 15px;
+    margin-top: 55px;
+    margin-bottom: 35px;
+}
+
+.textbox{
+    outline: none;
+    font-size: 1em;
+    color: #ffffff;
+    padding: 15px 10px;
+    margin: 0 auto;
+    width:95%;
+    border: none;
+    border-bottom: 1px solid #DCCDCF;
+    display:block;
+    background: transparent;
+}
